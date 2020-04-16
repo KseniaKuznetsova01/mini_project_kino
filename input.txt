@@ -1,0 +1,4 @@
+Ice: Alexander Petrov, Aglaya Tarasova, Maria Aronova, Milosh Bikovich, Irina Starshenbaum, Fedor Bondarchuk
+Attraction: Irina Starshenbaum, Rinal Mukhametov, Alexander Petrov, Daria Rudenok, Nikita Kukushkin, Sergey Garmash
+T-34: Alexander Petrov, Irina Starshenbaum, Vincenz Kiefer, Yuri Borisov, Victor Dobronravov, Anton Bogdanov
+Invasion: Irina Starshenbaum, Alexander Petrov, Rinal Mukhametov, Yuri Borisov, Sergey Garmash
