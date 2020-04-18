@@ -7,9 +7,9 @@ d = {}
 d1 = {}
 d2 = {}
 d3 = {}
-d4 = {}
 d5 = {}
 d6 = {}
+d4 = {}
 s = list()
 def slovar(film_1, film_2):
     if film_1 in d:
