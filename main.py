@@ -78,6 +78,7 @@ for keys in d:
             d1[key].append(value)
 
 number = int(input(lc.MENU1))
+
 while number != 3:
     if number == 1:
         num = 0
@@ -144,13 +145,10 @@ while number != 3:
                     print(i)
 
     number = int(input(lc.MENU1))
-print(d)
-print(d1)
-print(d2)
-print(d3)
-print(d4)
-print(d5)
-print(d6)
+    d2.clear()
+    d3.clear()
+    d5.clear()
+    d6.clear()
 print(lc.END)
 
 
